@@ -6,7 +6,7 @@
 **Quality Commercial Cleaning (QCC)** is a Commercial Cleaning Company that prioritizes innovation, efficiency, and excellence in service delivery.  
 With over a decade of experience, we provide tailored Cleaning Solutions for **Government Agencies**, **Financial Institutions**, and Businesses Across Australia.  
 
-At the heart of our operations is our proprietary **ERP system (_Boomerang_)** and **mobile applications**, which ensure streamlined processes, real-time job tracking, and compliance with stringent service-level agreements, even in remote or low-connectivity areas.  
+At the heart of our operations is our proprietary **ERP system (_Boomerang_)** and **mobile applications**, which ensure streamlined processes, real-time job tracking, and compliance with stringent service-level agreements, even in remote or low-connectivity internet areas.  
 
 ---
 
@@ -15,7 +15,7 @@ At the heart of our operations is our proprietary **ERP system (_Boomerang_)** a
 
 ---
 
-## 🔧 **What We Do**  
+## 🔧 **What the IT Team Do**  
 Here are some of the exciting projects and initiatives we work on:  
 - **Boomerang ERP System**:  
   A custom-built platform (currently transitioning to Laravel) that powers job tracking, reporting, and operational management.  
@@ -31,7 +31,7 @@ Here are some of the exciting projects and initiatives we work on:
 ---
 
 ## 💻 **How We Use Technology**  
-We believe technology is the backbone of exceptional service delivery.  
+We believe technology is the backbone of exceptional service delivery including in a company cleaning environment.  
 Our team actively develops and maintains:  
 - **APIs** for seamless ERP and mobile app integration.  
 - Features for **remote functionality** to support areas with limited connectivity.  
