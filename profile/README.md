@@ -1,5 +1,7 @@
 # Welcome to Quality Commercial Cleaning's GitHub 👋  
 
+![QCC Workflow Animation](https://github.com/Quality-Commercial-Cleaning/.github/blob/main/QCC_logo_ASCII.gif) 
+
 ## 🌟 **About Us**  
 **Quality Commercial Cleaning (QCC)** is a Commercial Cleaning Company that prioritizes innovation, efficiency, and excellence in service delivery.  
 With over a decade of experience, we provide tailored Cleaning Solutions for **Government Agencies**, **Financial Institutions**, and Businesses Across Australia.  
