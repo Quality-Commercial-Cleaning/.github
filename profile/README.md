@@ -66,3 +66,6 @@ Have a question, idea, or just want to say hi? Connect with us:
 - 🌐 Website: **[https://qcc.cleaning](https://qcc.cleaning)**  
 
 Let’s work together to redefine the Cleaning Industry through technology and innovation!  
+
+License
+Copyright (c) Quality Commercial Cleaning. All rights reserved.
